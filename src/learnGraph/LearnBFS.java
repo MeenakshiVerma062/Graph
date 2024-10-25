@@ -1,8 +1,4 @@
-package LearnGraph;
-
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
+package learnGraph;
 
 //public class LearnBFS {
 //        static class Edge {
